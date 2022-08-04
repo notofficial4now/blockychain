@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObLjtlEr68rqUFQtSkpGdFThTjFyOLHezeOasz0ZiIv6l7WQrZWsvT2ED9baJTcnpdgPdYv9gYTYrZ+FJdR92Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Blockchain\\Blockchain\\Blockchain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\embedio\\3.4.3\\embedio.3.4.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\unosquare.swan.lite\\3.0.0\\unosquare.swan.lite.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
